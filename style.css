@@ -26,8 +26,7 @@ figcaption {
 }
 
 nav {
-  position: relative;
-  overflow: hidden;
+  align-content: center;
 }
 nav a {
   color: blue;
@@ -37,3 +36,4 @@ nav a {
 
 
 }
+
