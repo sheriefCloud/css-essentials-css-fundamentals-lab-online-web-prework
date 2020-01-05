@@ -37,11 +37,11 @@ nav a {
 
 }
 
-.details {
+#details {
   display: block;
   margin: auto;
 }
 
-.details div {
+#details div {
   width: 25%;
 }
