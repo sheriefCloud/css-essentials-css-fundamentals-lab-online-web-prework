@@ -24,7 +24,7 @@ figcaption {
   margin: auto;
   width: 800px;
 }
-nav {
+nav a {
   display: block;
   margin: auto;
   padding-left: 10px;
