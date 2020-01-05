@@ -12,6 +12,6 @@ h1 {
   align-items: center;
 }*/
 
-figure #featured-property {
-  align-items: center;
+#featured-property {
+  margin: auto;
 }
