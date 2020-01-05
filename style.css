@@ -8,13 +8,8 @@ h1 {
   text-align: center;
 }
 
-/*#featured-property figure {
-  align-items: center;
-}*/
-
-figure {
-
-  margin: auto;
-  width: 80em;
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
