@@ -44,7 +44,7 @@ justify-content: center;
 }
 
 #details div {
-  float: center;
+  float: right;
   position: relative;
   right:auto;
   width: 25%;
