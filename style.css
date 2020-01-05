@@ -28,6 +28,9 @@ figcaption {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
+
+}
+nav {
+  display: block;
   margin: auto;
-  width: 1000px;
 }
