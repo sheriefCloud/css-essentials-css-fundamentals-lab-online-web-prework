@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
-#featured-property figure {
+/*#featured-property figure {
+  align-items: center;
+}*/
+
+figure #featured-property {
   align-items: center;
 }
