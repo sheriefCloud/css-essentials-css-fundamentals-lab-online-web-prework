@@ -39,8 +39,9 @@ nav a {
 
 .details {
   display: block;
-
+  margin: auto;
 }
-div .details {
+
+.details div {
   width: 25%;
 }
