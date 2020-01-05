@@ -24,9 +24,15 @@ figcaption {
   margin: auto;
   width: 800px;
 }
+
+nav {
+  position: relative;
+  overflow: hidden;
+}
 nav a {
-  display: block;
-  margin: auto;
+  float: left;
+  color: yellow;
+  text-align: center;
   padding: 10 px 10px;
 
 
