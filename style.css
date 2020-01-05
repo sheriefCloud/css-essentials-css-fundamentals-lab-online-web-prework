@@ -38,9 +38,8 @@ nav a {
 }
 
 #details {
-  display: flex;
-
-  justify-content: center;
+display: block;
+justify-content: center;
 
 }
 
